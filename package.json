@@ -1,0 +1,22 @@
+{
+  "name": "observability-assignment",
+  "version": "1.0.0",
+  "description": "assignment 12",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ethanbwillis/observability-assignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ethanbwillis/observability-assignment/issues"
+  },
+  "homepage": "https://github.com/ethanbwillis/observability-assignment#readme",
+  "dependencies": {
+    "@opentelemetry/exporter-jaeger": "^1.23.0"
+  }
+}
