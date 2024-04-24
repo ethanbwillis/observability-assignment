@@ -1,3 +1,4 @@
+//code from https://docs.google.com/document/d/1EiDWd5bsOKZ97ZOmna3uNEEBeiV-KSp34p-ruk4TXx0/edit
 const { Resource } = require("@opentelemetry/resources");
 const { SemanticResourceAttributes } = require("@opentelemetry/semantic-conventions");
 const { JaegerExporter } = require('@opentelemetry/exporter-jaeger');
